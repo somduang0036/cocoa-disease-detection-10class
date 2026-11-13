@@ -1,0 +1,46 @@
+{
+  "version": "model1-plantnet-replacement-v2-class-mapping",
+  "status": "COMPLETED",
+  "manifest": "H:\\My Drive\\cocoa-diseases\\dataset\\model1_metadata.csv",
+  "manifest_sha256": "cd4b8177268cfeca8d377b82066ad35901f07a350354acbfabffccb5e75dd8ac",
+  "allocation": [
+    {
+      "split": "train",
+      "cocoa": 7147,
+      "existing_non_cocoa": 3573,
+      "plantnet_leaf": 3574,
+      "plantnet_fruit": 3574,
+      "non_cocoa": 10721
+    },
+    {
+      "split": "val",
+      "cocoa": 894,
+      "existing_non_cocoa": 447,
+      "plantnet_leaf": 447,
+      "plantnet_fruit": 447,
+      "non_cocoa": 1341
+    },
+    {
+      "split": "test",
+      "cocoa": 894,
+      "existing_non_cocoa": 447,
+      "plantnet_leaf": 447,
+      "plantnet_fruit": 447,
+      "non_cocoa": 1341
+    }
+  ],
+  "images": 22338,
+  "plantnet": 8936,
+  "removed_or_absent": 48120,
+  "existing_splits_unchanged": true,
+  "cocoa_images_unchanged": true,
+  "model2_metadata_unchanged": true,
+  "copy_counts": {
+    "copied": 8936
+  },
+  "completed_utc": "2026-11-01T08:36:24Z",
+  "class_mapping": {
+    "other_plants": 0,
+    "cocoa": 1
+  }
+}

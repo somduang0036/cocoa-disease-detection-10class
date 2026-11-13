@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETED",
+  "active_manifest": "model1_metadata.csv",
+  "class_mapping": {
+    "other_plants": 0,
+    "cocoa": 1
+  },
+  "old_manifests_are_historical": true,
+  "loader_note": "Use explicit class IDs from the manifest; ImageFolder alphabetical IDs differ."
+}

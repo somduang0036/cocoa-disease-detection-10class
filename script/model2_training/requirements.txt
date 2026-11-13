@@ -1,0 +1,4 @@
+ultralytics==8.4.198
+pandas
+matplotlib
+PyYAML

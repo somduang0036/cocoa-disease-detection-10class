@@ -1,0 +1,11 @@
+# Keep the matching PyTorch and torchvision builds supplied by Colab.
+# For local execution, select compatible CPU or CUDA builds at pytorch.org.
+torch>=2.4
+torchvision>=0.19
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+Pillow>=10.4
+PyYAML>=6.0
+psutil>=5.9
