@@ -21,7 +21,7 @@ For the complete file listing, see the [Hugging Face Dataset repository](https:/
 4. Preserve the directory name `dataset/matadata_model 2/` exactly as shown. The scripts use this path to locate the class mapping and COCO annotations.
 
 ```text
-cocoa-disease-detection-10class/
+cocoa-diseases/
 ├── notebook/
 │   └── cocoa_deisease_detection.ipynb
 ├── script/
